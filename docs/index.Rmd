@@ -1,0 +1,28 @@
+--- 
+title: "Bear's Retirement Life"
+author: "Ruidan Ni"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Who is Bear
+
+![Bear](IMG_5800.JPG)
+![Bear](IMG_5798.PNG)
+![Bear](IMG_5797.PNG)
+
+Bear is a 10 years old doxie, he:
+
+- Loves food
+- Enjoys laser point chasing game
+- Sleeps a lot!
+- Has bad teeth, and bad breath due to bad genetics
+- Adopted by human Rita three years ago in a animal shelter in Boone, IA.
+
